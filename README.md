@@ -1,6 +1,6 @@
 **Задание [ссылка](https://github.com/netology-code/loadqa-homeworks/blob/main/3.Load%20web/homework_lecture3.md)**
 
-# HW3-websiteCinema Проведение нагрузочного веб-тестирования сайта кинотеатра
+# Проведение нагрузочного веб-тестирования сайта кинотеатра
 
 Репозиторий с сайтом кинотеатра https://github.com/mshegolev/congenial-potato.git
 ## Тестирование покупки билета в кинотеатр и получения QR кода
@@ -26,10 +26,11 @@
 ![2023-04-07_13-01-57](https://user-images.githubusercontent.com/105548819/230682050-460ad523-52e7-4c5d-aa2f-81958501c82f.png)
 ![2023-04-07_13-02-23](https://user-images.githubusercontent.com/105548819/230682051-361f133d-7c4a-4ed4-9358-d98ca5ae5bcc.png)
 
+# JMeter
 
 **Записанный сценарий JMeter в формате jmx: [ссылка](https://github.com/VisYar/HW3-websiteCinema/blob/master/Cinema%2004-07-23.jmx)**
 
-**LOAD TEST в influx**
+**Графики в influx**
 
 ![2023-04-07_22-10-08](https://user-images.githubusercontent.com/105548819/230682183-3441cae6-a687-493d-bd89-bed9fd713a41.png)
 
